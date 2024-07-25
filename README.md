@@ -4,7 +4,7 @@
 
 <img align="right" alt = "Coding" width  = "400" src="https://i.pinimg.com/564x/52/dd/45/52dd453077fb96cb52424452ea38df8d.jpg" /> 
 
-- 🔭 I’m currently working on **CareerTalks Blog**
+- 🔭 I’m currently working on **CareerTalks Blog in Mern Stack**
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs and MongoDB**
 
