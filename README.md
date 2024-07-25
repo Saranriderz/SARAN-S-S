@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SARAN S S</h1>
-<h3 align="center">Passionate about problem solving with a record of solving 400+ coding problems on various platforms like leetcode, codechef and code studio and have contest rating with 1420+. A dedicated MERN Stack developer constantly learning and exploring new technologies to create clean, user-friendly web experiences. Proficient in C++ and committed to enhancing my problem-solving abilities.
+<h3 align="center">Passionate about problem solving and have solved 400+ coding problems on various platforms like leetcode, codechef and code studio and have contest rating with 1420+. A dedicated MERN Stack developer constantly learning and exploring new technologies to create clean, user-friendly web experiences. Proficient in C++ and committed to enhancing my problem-solving abilities.
 </h3>
 
 <img align="right" alt = "Coding" width  = "400" src="https://i.pinimg.com/564x/52/dd/45/52dd453077fb96cb52424452ea38df8d.jpg" /> 
