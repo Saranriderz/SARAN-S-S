@@ -4,7 +4,7 @@
 
 <img align="right" alt = "Coding" width  = "400" src="https://i.pinimg.com/564x/52/dd/45/52dd453077fb96cb52424452ea38df8d.jpg" /> 
 
-<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=saran-s-s&label=Profile%20views&color=0e75b6&style=flat" alt="saran-s-s" /> </p>" alt="saran-s-s" /> </p>
+<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=saran-s-s&label=Profile%20views&color=0e75b6&style=flat"  /> </p>" alt="saran-s-s" /> </p>
 
 - 🔭 I’m currently working on **CareerTalks Blog**
 
